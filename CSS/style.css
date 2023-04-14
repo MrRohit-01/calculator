@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    border: 1px #fff;
+}
+.border{
+    box-shadow: 0px 0px 2px #fff;
+}
+.text:focus{
+ outline: none;
+}
+img{  
+    position: absolute;  
+    height: 15px;
+    width: 15px;
+    top: 93%;
+}
+p{
+    position: absolute;
+    top: 92.7%;
+    margin: 0px 0px 0px 67px;
+    font-size: 14px;
+    color: #fff;
+
+}
+a{
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.text{
+    height: 56px;
+    width: 295px;
+    text-align: right;
+    border: none;
+    box-shadow: 0px 2px 10px #000;
+    font-size: 50px;
+    background-color: transparent;
+    color: white;
+    padding: 39px 0px 23px 0px;
+    margin-top: 30px;
+    margin-left: 7px;
+    margin-bottom: 10px;
+  }
+.number{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lett:hover{
+    cursor: pointer;
+}
+.lett{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 8px 10px;
+    height: 59px;
+    width: 59px;
+    background-color:aqua ;
+    border-radius: 100%;
+}
+.a1{
+    color: #fff;
+    background-color: #4A4A4A;
+}
+.a1o{
+    background-color: #CBCBCB;
+}
+.a41{
+    width: 134px;
+    border-radius: 35px;
+}
+.a7{
+    background-color: orange;
+    color: #fff;   
+    font-size: 35px;
+}
