@@ -41,7 +41,6 @@ a{
     color: inherit;
     text-decoration: inherit;
 }
-
 .text{
     height: 56px;
     width: 295px;
@@ -55,7 +54,7 @@ a{
     margin-top: 30px;
     margin-left: 7px;
     margin-bottom: 10px;
-  }
+}
 .number{
     display: flex;
     justify-content: center;
