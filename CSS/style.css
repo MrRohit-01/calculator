@@ -19,6 +19,7 @@ body{
 }
 .border{
     box-shadow: 0px 0px 2px #fff;
+    border-radius: 15px;
 }
 .text:focus{
  outline: none;
